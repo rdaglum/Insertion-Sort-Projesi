@@ -1,5 +1,5 @@
 # Insertion-Sort-Projesi
-Patika.dev , Veri Yapıları ve Algoritmalar öğrencilerinin oğlu olan öğrencilerden Yerleştirme Sıralama Projesi
+www.patika.dev , Veri Yapıları ve Algoritmalar öğrencilerinin oğlu olan öğrencilerden Yerleştirme Sıralama Projesi
 [22,27,16,2,18,6] -> Insertion Sort
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2.	Big-O gösterimini yazınız.
@@ -35,3 +35,4 @@ Worst case (En kötü durum): O(n^2)
 
 [2,3,4,5,6,7,8,9,15] 6. Aşama
 
+https://app.patika.dev/ridvandaglum
