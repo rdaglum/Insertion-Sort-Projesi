@@ -1,6 +1,6 @@
 # Insertion-Sort-Projesi
 www.patika.dev
-Veri Yapıları ve Algoritmalar öğrencilerinin oğlu olan öğrencilerden Yerleştirme Sıralama Projesi
+Veri Yapıları ve Algoritmalar Bölümünün Yerleştirme Sıralama Projesi Ödevi
 [22,27,16,2,18,6] -> Insertion Sort
 1.	Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2.	Big-O gösterimini yazınız.
